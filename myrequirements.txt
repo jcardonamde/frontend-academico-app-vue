@@ -1,0 +1,24 @@
+1. Command for install Vue from console: npm install -g @vue/cli
+
+2. Create project on Vue: vue create nameoftheproject
+
+3. Choose after the option: Manually select features
+
+4. Later select the features: Babel, Router, Vuex and push Enter
+
+5. Later select the version of Vue.js 3.x and Enter
+
+6. When the console asks me to use the history mode, I answer Yes
+
+7. Choose after the option: In package .json
+
+8. Finally when the console asks me save the present configuration, I answer Not
+
+9. Once the project has been created, I go to the project folder to check the creation of the project
+
+10. into the folder project install the libraries using the command:
+npm i @fortawesome/fontawesome-free axios bootstrap sweetalert2
+
+11. Later you can write "code ." for open the project in your IDE like VS code
+
+12. The command for run the web server is: npm run serve
