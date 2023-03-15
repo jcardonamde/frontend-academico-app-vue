@@ -1,4 +1,5 @@
 <template>
+    <br>
     <div class="row mt-5 mb-4">
         <h1>Bienvenido al sitio de Gestión Academica UPB</h1>
         <p>Actualmente estamos en la construcción de un portafolio. Te invitamos a conocer nuestras técnicas laborales. </p>
