@@ -51,7 +51,7 @@
 <!-- Aqui se importan las librerias de apoyo para las peticiones Http y las alertas -->
 <script>
 import axios from 'axios';
-import { confirmar } from '../funciones';
+import { confirmarCursos } from '../funciones';
 
 export default {
     data() {
@@ -76,7 +76,7 @@ export default {
             );
         },
         eliminar(id, nombre) {
-            confirmar('http://appusers.test:85/api/v1/cursos/', id, 'Eliminar registro', 'Realmente desea eliminar el curso ' + nombre + '?');
+            confirmarCursos('http://appusers.test:85/api/v1/cursos/', id, 'Eliminar registro', 'Realmente desea eliminar el curso ' + nombre + '?');
             this.cargando = false;
         }
     }

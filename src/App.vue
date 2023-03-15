@@ -19,7 +19,7 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <router-link to="/" class="dropdown-item">Listar estudiantes</router-link>
+                <router-link to="/estudiantes" class="dropdown-item">Listar estudiantes</router-link>
               </li>
               <li>
                 <router-link to="/createE" class="dropdown-item">Registrar nuevo</router-link>

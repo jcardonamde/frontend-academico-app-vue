@@ -7,7 +7,7 @@
                 </div>
                 <div class="card-body">
                     <div class="d-grid col-6 mx-auto mb-3">
-                        <router-link :to="{ path: '/' }" class="btn btn-info">
+                        <router-link :to="{ path: '/estudiantes' }" class="btn btn-info">
                             <i class="fa-solid fa-arrow-left"></i> Regresar a la lista
                         </router-link>
                     </div>
