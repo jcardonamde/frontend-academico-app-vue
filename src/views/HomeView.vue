@@ -1,5 +1,5 @@
 <template>
-    <div class="row mt-5 mb-5">
+    <div class="row mt-5 mb-4">
         <h1>Bienvenido al sitio de Gestión Academica UPB</h1>
         <p>Actualmente estamos en la construcción de un portafolio. Te invitamos a conocer nuestras técnicas laborales. </p>
     </div>
@@ -17,7 +17,7 @@
             </button>
         </p>
         <div class="collapse" id="collapseExample2">
-            <div class="card card-body mt-3 w-100">
+            <div class="card card-body mt-3 w-100 bg-secondary">
                 <div class="d-flex justify-content-between w-100">
                     <div class="card text-center h-25" style="width: 800px;">
                         <img src="../assets/imgs/IMG-P2.jpg" class="card-img-top img-fluid w-100"
